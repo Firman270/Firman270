@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./github-metrics.svg" alt="Firman270 GitHub Metrics" width="100%" />
+</div>
+
 # Hi, I'm Firman Nur Hidayat 👋
 
 ### Informatics Engineering Student | IoT | Embedded Systems | Hardware & Firmware Integration
