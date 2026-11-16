@@ -86,7 +86,7 @@ An IoT-based smart water metering system designed to monitor water consumption a
 
 ---
 
-### 2. Smart Parking System
+### 2. [Smart Parking System](https://github.com/Firman270/smart-parking-system)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-00878F?style=flat-square&logo=espressif&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
