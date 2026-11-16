@@ -111,7 +111,7 @@ An IoT-based parking management system that monitors parking slot availability a
 
 ---
 
-### 3. Digital Scoliometer
+### 3. [Digital Scoliometer](https://github.com/Firman270/scoliometer-digital)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![MPU6050](https://img.shields.io/badge/MPU6050-455A64?style=flat-square)
 ![LCD 16x4](https://img.shields.io/badge/LCD_16x4-0277BD?style=flat-square)
